@@ -1,7 +1,7 @@
 title = "My New Hugo Site"
 theme = "introduction"
 relativeURLs = true
-baseURL = "https://waqasshami-hugo-dev-dlshz.ondigitalocean.app"
+baseURL = "https://waqasshami-hugo-jvbd7.ondigitalocean.app"
 languageCode = "en-us"
 
 [params]
