@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "introduction"
-
+relativeURLs = true
+baseURL = "https://waqasshami-hugo-dev-dlshz.ondigitalocean.app"
+languageCode = "en-us"
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
